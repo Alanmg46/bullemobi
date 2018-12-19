@@ -13,10 +13,7 @@
     "moment": "^2.22.2",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
-<<<<<<< HEAD
     "react-native-datepicker": "^1.7.2",
-=======
->>>>>>> 7ed846ce3b7f8eaa076095ec01b942feb6867877
     "react-native-extended-stylesheet": "^0.10.0"
   },
   "devDependencies": {
